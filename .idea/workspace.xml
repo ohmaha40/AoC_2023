@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b17d8997-6155-49de-bfdf-2e30a3ca0173" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AoC_2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aufgaben/day2_p1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aufgaben/day2_p2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aufgaben/day_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aufgaben/day_1_p2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2_p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2_p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_1_p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_1_p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start.py" afterDir="false" />
-    </list>
+    <list default="true" id="b17d8997-6155-49de-bfdf-2e30a3ca0173" name="Changes" comment="AoC 2023 nachgeholt. Tag 1 und 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ohmaha40"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ohmaha40/AoC_2023.git",
+    "accountId": "ebdadd14-b9b6-47c1-a1ff-f9f32fc295f2"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -48,6 +45,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.day2_p1.executor": "Run",
+    "Python.day2_p2.executor": "Run",
     "Python.day_1.executor": "Run",
     "Python.day_1_p2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -76,6 +74,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732899394852</updated>
     </task>
+    <task id="LOCAL-00001" summary="AoC 2023 nachgeholt. Tag 1 und 2">
+      <option name="closed" value="true" />
+      <created>1732912792622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732912792622</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AoC 2023 nachgeholt. Tag 1 und 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="AoC 2023 nachgeholt. Tag 1 und 2" />
   </component>
 </project>
